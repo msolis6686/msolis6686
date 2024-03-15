@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👋 Hi, I'm @msolis6686
+- 👋 I'm @msolis6686
 - 🔭 I am currently working as a Project Manager with Odoo
 - 🌱 I'm currently learning .NET
 - 📫 How to contact me: mario@blackfish.com.ar
